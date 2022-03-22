@@ -20,16 +20,16 @@ The analysis of the election shows that:
 
   ## Candidates
     - There candidates were:
-      -Charles Casper Stockham
-      -Diana DeGette
-      -Raymon Anthony Doane
+     - Charles Casper Stockham
+      - Diana DeGette
+      - Raymon Anthony Doane
   
     - Charles Casper Stockham recieved 23.0% of the votes which amounted to 85,213 votes
     - Diana DeGette recieved 73.8% of the votes which was 272,892 votes
     - and Raymon Anthony Doane recieved 3.1% of the votes with 11,606 to his name.
     
     -The winner of the Election was:
-      -Diane DeGette recieved 73.8% of the votes making her the winner of this election
+      - Diane DeGette recieved 73.8% of the votes making her the winner of this election
  
 ## CHALLENGE OVERVIEW
 - Get the voter turnout of each county in the election

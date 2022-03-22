@@ -29,7 +29,7 @@ The analysis of the election shows that:
     - and Raymon Anthony Doane recieved 3.1% of the votes with 11,606 to his name.
     
     -The winner of the Election was:
-      - Diane DeGette recieved 73.8% of the votes making her the winner of this election
+        - Diane DeGette recieved 73.8% of the votes making her the winner of this election
  
 ## CHALLENGE OVERVIEW
 - Get the voter turnout of each county in the election
@@ -43,8 +43,8 @@ There were 3 Counties in this Election, they are:
   - Denver
   - Jefferson
  
-  - Arapahoe made up for 6.7% of the votes in this election with 24,801 votes
-  - Denver turned out 82.8% votes in this election with 306,055 registered votes
-  - Jefferson made up the rest of the votes which was 10.5% of the votes in the election with 38,855 votes
+    - Arapahoe made up for 6.7% of the votes in this election with 24,801 votes
+    - Denver turned out 82.8% votes in this election with 306,055 registered votes
+    - Jefferson made up the rest of the votes which was 10.5% of the votes in the election with 38,855 votes
   
- - The County with the biggest turnout is Denver county with 82.8% of the votes (306,055 votes)
+    - The County with the biggest turnout is Denver county with 82.8% of the votes (306,055 votes)

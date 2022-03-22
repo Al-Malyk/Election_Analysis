@@ -19,7 +19,7 @@ The analysis of the election shows that:
 - There were 369,711 votes cast in the election
 
   ## Candidates
-    - There candidates were:
+   - There candidates were:
      - Charles Casper Stockham
       - Diana DeGette
       - Raymon Anthony Doane
@@ -43,8 +43,8 @@ There were 3 Counties in this Election, they are:
   - Denver
   - Jefferson
  
-  -Arapahoe made up for 6.7% of the votes in this election with 24,801 votes
-  -Denver turned out 82.8% votes in this election with 306,055 registered votes
-  -Jefferson made up the rest of the votes which was 10.5% of the votes in the election with 38,855 votes
+  - Arapahoe made up for 6.7% of the votes in this election with 24,801 votes
+  - Denver turned out 82.8% votes in this election with 306,055 registered votes
+  - Jefferson made up the rest of the votes which was 10.5% of the votes in the election with 38,855 votes
   
- -The County with the biggest turnout is Denver county with 82.8% of the votes (306,055 votes)
+ - The County with the biggest turnout is Denver county with 82.8% of the votes (306,055 votes)

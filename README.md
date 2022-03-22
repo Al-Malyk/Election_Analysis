@@ -10,8 +10,9 @@ A Colorado Board of Elections assigned a task of copmpleting an election audit o
 - Determine the winner of the election by popular vote
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.10.2 , Visual Studio Code version 1.65.2
+- Data Source: election_results.csv
+- Software: Python 3.10.2 
+- Visual Studio Code version 1.65.2
 
 ## Analysis Summary
 The analysis of the election shows that:

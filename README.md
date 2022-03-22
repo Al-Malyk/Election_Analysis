@@ -3,11 +3,11 @@
 ## Project Overview
 A Colorado Board of Elections assigned a task of copmpleting an election audit of a recent local election
 
-1). Determine the total number of votes
-2). Get a complete list of candidates who recieved votes
-3). Calculate the total number of votes each candidate recieved
-4). Calculate the percentage of votes each candidate won
-5). Determine the winner of the election by popular vote
+- Determine the total number of votes
+- Get a complete list of candidates who recieved votes
+- Calculate the total number of votes each candidate recieved
+- Calculate the percentage of votes each candidate won
+- Determine the winner of the election by popular vote
 
 ## Resources
 -Data Source: election_results.csv
@@ -31,9 +31,9 @@ The analysis of the election shows that:
       -Diane DeGette recieved 73.8% of the votes making her the winner of this election
  
 ## CHALLENGE OVERVIEW
-1). Get the voter turnout of each county in the election
-2). Calculate the percnetage of votes from each county
-3). Determine the county with the highest voter turnout
+- Get the voter turnout of each county in the election
+- Calculate the percnetage of votes from each county
+- Determine the county with the highest voter turnout
 
 
 ## CHALLENGE SUMMARY
